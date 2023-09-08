@@ -1,5 +1,5 @@
 nav{
-    width: 200px;
+    width: 296px;
     height: 100vh;
     position: fixed;
     font-size: 16px;
@@ -14,4 +14,27 @@ nav{
         height: 32px;
         border-left: 4px solid #198754;
     }
+}
+.m-img{
+    margin-right: 113px;
+}
+.user{
+    // position: relative;
+    margin-top: 90vh;
+
+    
+}
+.user-img{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.f16{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+.f14{
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
 }
